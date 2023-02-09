@@ -1,7 +1,11 @@
 body
 {
-    font-family: 'Courier New';
-    color: blue;
+
+
+    font-family: "Calibri";
+    color: #c2a3d5;
+    text-shadow: 2px 2px 2px #000000;
+
     text-align: center;
     background-color: #FDEBED;
 }
@@ -34,5 +38,8 @@ body
 #post
 {
  padding: 0;
+
  text-shadow: 1px 1px 2px #000000 ;
+
 }
+
