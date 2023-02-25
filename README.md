@@ -10,5 +10,7 @@ Arte con svg, codigo y orden de presentacion
  - Git y Git Hub entre colaboladores.
  - Trucos locos 
  - Lolis empaquetadas
+ - Include
+ - Dsiponible pa todas las edades
  
 Si quieren saber les invito a visitar [**Platzi**](https://platzi.com/homehttp:// "**Platzi**") y seguirme dando unos likes a mi proyecto.
